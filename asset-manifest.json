@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CityTemp/static/css/main.17f45d4d.chunk.css",
+    "main.js": "/CityTemp/static/js/main.e5965625.chunk.js",
+    "main.js.map": "/CityTemp/static/js/main.e5965625.chunk.js.map",
+    "runtime-main.js": "/CityTemp/static/js/runtime-main.b1cdcf4a.js",
+    "runtime-main.js.map": "/CityTemp/static/js/runtime-main.b1cdcf4a.js.map",
+    "static/js/2.55643ead.chunk.js": "/CityTemp/static/js/2.55643ead.chunk.js",
+    "static/js/2.55643ead.chunk.js.map": "/CityTemp/static/js/2.55643ead.chunk.js.map",
+    "static/js/3.17d0b7ea.chunk.js": "/CityTemp/static/js/3.17d0b7ea.chunk.js",
+    "static/js/3.17d0b7ea.chunk.js.map": "/CityTemp/static/js/3.17d0b7ea.chunk.js.map",
+    "index.html": "/CityTemp/index.html",
+    "static/css/main.17f45d4d.chunk.css.map": "/CityTemp/static/css/main.17f45d4d.chunk.css.map",
+    "static/js/2.55643ead.chunk.js.LICENSE.txt": "/CityTemp/static/js/2.55643ead.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1cdcf4a.js",
+    "static/js/2.55643ead.chunk.js",
+    "static/css/main.17f45d4d.chunk.css",
+    "static/js/main.e5965625.chunk.js"
+  ]
+}
